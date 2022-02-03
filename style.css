@@ -744,6 +744,11 @@ h4 {
     color: #333333!important;
 }
 
+h4.mg-md text-center tc-white
+{
+    font-size: 30px;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
