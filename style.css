@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+p.citation{
+    font-size: 20px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
