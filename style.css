@@ -16,6 +16,11 @@ p.realisations
     font-size: 30px;
 }
 
+p.visible
+{
+    font-size: 30px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
