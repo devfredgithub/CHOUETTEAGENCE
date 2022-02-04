@@ -7,9 +7,18 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-p.citation{
+.citation
+{
     font-size: 20px;
 }
+
+.auteur
+{
+    font-size: 15px;
+}
+
+
+
 
 p.realisations
 {
@@ -795,6 +804,7 @@ h4.mg-md text-center tc-white
 
 .tc-white {
     color: #FFFFFF!important;
+    font-size: 25px;
 }
 
 .btn-atomic-tangerine {
