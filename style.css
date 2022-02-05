@@ -839,7 +839,7 @@ h4.mg-md text-center tc-white
 }
 
 .bg-dots-bg {
-    background-image: url("img/la-chouette-agence-milieu.png");
+    background-image: url("img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
@@ -847,11 +847,11 @@ h4.mg-md text-center tc-white
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-haut.png");
 }
 
 .bg-presentation {
-    background-image: url("img/la-chouette-agence-haut.png");
+    background-image: url("img/la-chouette-agence-milieu.png");
 }
 
 @media (max-width: 1024px) {
