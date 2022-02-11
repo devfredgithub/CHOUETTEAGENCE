@@ -839,19 +839,19 @@ h4.mg-md text-center tc-white
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots.jpg");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/line.jpg");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-haut.png");
+    background-image: url("img/la-chouette-agence-haut.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/la-chouette-agence-milieu.png");
+    background-image: url("img/la-chouette-agence-milieu.jpg");
 }
 
 @media (max-width: 1024px) {
